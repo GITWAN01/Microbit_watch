@@ -1,5 +1,6 @@
 {
     "name": "Step counter",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
